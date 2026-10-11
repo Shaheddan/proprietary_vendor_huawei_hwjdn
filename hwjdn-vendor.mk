@@ -75,7 +75,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/hwjdn/proprietary/vendor/lib/lib_oeminfo_interface.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib_oeminfo_interface.so \
     vendor/huawei/hwjdn/proprietary/vendor/lib/libdmd.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdmd.so \
     vendor/huawei/hwjdn/proprietary/vendor/lib/libqmi_nv_api.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqmi_nv_api.so \
-    vendor/huawei/hwjdn/proprietary/vendor/lib64/hw/sensors.msm8916.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/sensors.msm8916.so \
+    vendor/huawei/hwjdn/proprietary/vendor/lib64/sensors.hwjdn.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.hwjdn.so \
     vendor/huawei/hwjdn/proprietary/vendor/lib64/lib_oeminfo_interface.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib_oeminfo_interface.so \
     vendor/huawei/hwjdn/proprietary/vendor/lib64/libbtaddr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libbtaddr.so \
     vendor/huawei/hwjdn/proprietary/vendor/lib64/libbtpower.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libbtpower.so \
